@@ -1,2 +1,2 @@
-# test-babel
+# ES6-babel-starter
 babelテスト用
